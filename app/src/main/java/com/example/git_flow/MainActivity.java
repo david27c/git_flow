@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-hola mundo
+hola mundo;
+Hola yo;
     }
 }
